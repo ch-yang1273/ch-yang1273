@@ -1,6 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fch-yang1273&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/ch-yang1273)
 [![Blog](https://img.shields.io/badge/-Blog-3178C6.svg?&style=round-square&logo=Tistory&logoColor=#000000)](https://ch-yang.tistory.com)
-[![Notion](https://img.shields.io/badge/-Notion-2B2B2B.svg?&style=round-square&logo=Notion&logoColor=#000000)](https://www.notion.so/ch-yang1273)
+[![Notion](https://img.shields.io/badge/-Notion-2B2B2B.svg?&style=round-square&logo=Notion&logoColor=#000000)](https://ch-yang1273.notion.site)
 
 # Yang ChanHong
 
