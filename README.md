@@ -23,4 +23,4 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ch-yang1273&show_icons=true&count_private=true&hide_border=true)
 
 ## Solved
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ych0305)](https://solved.ac/ych0305)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ych0305)](https://github.com/ch-yang1273/Algorithm)
