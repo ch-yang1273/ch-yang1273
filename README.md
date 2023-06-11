@@ -1,6 +1,7 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fch-yang1273&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/ch-yang1273)
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fch-yang1273&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/ch-yang1273) -->
 [![Blog](https://img.shields.io/badge/-Blog-3178C6.svg?&style=round-square&logo=Tistory&logoColor=#000000)](https://ch-yang.tistory.com)
 [![Notion](https://img.shields.io/badge/-Notion-2B2B2B.svg?&style=round-square&logo=Notion&logoColor=#000000)](https://ch-yang1273.notion.site)
+[![Hits](https://komarev.com/ghpvc/?username=ch-yang1273&color=blue&style=flat)](https://github.com/ch-yang1273)
 
 # Yang ChanHong
 
@@ -20,7 +21,21 @@
 
 
 ## GitHub Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ch-yang1273&show_icons=true&count_private=true&hide_border=true)
+<p align="left">
+  <a href="https://github.com/ch-yang1273">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ch-yang1273&theme=transparent" />
+  </a>
+  <a href="https://github.com/ch-yang1273">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ch-yang1273&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/ch-yang1273">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ch-yang1273&theme=transparent" />
+<!--   </a>
+  <a href="https://github.com/ch-yang1273">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ch-yang1273&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a> -->
+</p>
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=ch-yang1273&show_icons=true&count_private=true&hide_border=true) -->
 
 ## Solved
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ych0305)](https://github.com/ch-yang1273/Algorithm)
