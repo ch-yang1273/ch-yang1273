@@ -3,22 +3,32 @@
 [![Notion](https://img.shields.io/badge/-Notion-2B2B2B.svg?&style=round-square&logo=Notion&logoColor=#000000)](https://ch-yang1273.notion.site)
 [![Hits](https://komarev.com/ghpvc/?username=ch-yang1273&color=blue&style=flat)](https://github.com/ch-yang1273)
 
-# Yang ChanHong
+## Yang ChanHong
 
-## Skill
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=round-square&logo=Java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=round-square&logo=Spring&logoColor=white)
+4년간 임베디드 개발자로 경험을 쌓았지만, 신입 백엔드 개발자로 미지의 도전을 선택한 양찬홍입니다.
+  
+정답은 아닐 수 있어도, 재밌어 보였습니다.
+
+### Backend
+
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=round-square&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=round-square&logo=spring&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-003545.svg?&style=round-square&logo=hibernate&logoColor=white)
+![Mybatis](https://img.shields.io/badge/Mybatis-FF4500.svg?&style=round-square&logo=mybatis&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-59666C.svg?&style=round-square&logo=mariadb&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=round-square&logo=linux&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=round-square&logo=C&logoColor=white)
+
+### Frontend
+
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F.svg?&style=round-square&logo=thymeleaf&logoColor=white)
+![jquery](https://img.shields.io/badge/jquery-0769AD.svg?&style=round-square&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=round-square&logo=bootstrap&logoColor=white)
+
+### ETC
 
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=round-square&logo=Git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=round-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E.svg?&style=round-square&logo=amazonaws&logoColor=white)
-![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF.svg?&style=round-square&logo=githubactions&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-2B2B2B.svg?&style=round-square&logo=intellijidea&logoColor=white)
-
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=round-square&logo=linux&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=round-square&logo=C&logoColor=white)
 
 ## GitHub Stats
 <p align="left">
@@ -30,12 +40,6 @@
   </a>
   <a href="https://github.com/ch-yang1273">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ch-yang1273&theme=transparent" />
-<!--   </a>
-  <a href="https://github.com/ch-yang1273">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ch-yang1273&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
-  </a> -->
 </p>
+    
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=ch-yang1273&show_icons=true&count_private=true&hide_border=true) -->
-
-## Solved
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ych0305)](https://github.com/ch-yang1273/Algorithm)
