@@ -5,8 +5,6 @@
 
 ## Yang ChanHong
 
-4년간 임베디드 개발자로 경험을 쌓았지만, 신입 백엔드 개발자로 새로운 도전을 하고 있는 양찬홍입니다.
-
 ### Backend
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=round-square&logo=java&logoColor=white)
